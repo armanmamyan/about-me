@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on web3 startup<br>👯 Always looking to collaborate on Metaverse, Three.js & R3F related projects<br>🌱 I’m currently learning ML, Shaders & Flutter<br>⚡ Fun fact: A marketing specialist, who becomes a self-taught software engineer and helps others to accomplish their goals, by organizing different IT cultural events 
+🔭 Currently working on web3 <br>👯 Always looking to collaborate on Metaverse, Three.js & R3F related projects<br>🌱 I’m currently learning ML, Shaders & Flutter<br>⚡ Fun fact: A marketing specialist, who becomes a self-taught software engineer and helps others to accomplish their goals, by organizing different IT cultural events 
 
 
 ## 🌐 Socials:
